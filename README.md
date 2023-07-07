@@ -6,4 +6,4 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Likes](https://badgen.org/img/zenn/replica/likes?style=flat&5)](https://zenn.dev/replica)
-[![Rating](https://badgen.org/img/atcoder/replica531/rating/algorithm?style=flat&1)](https://atcoder.jp/users/replica531?contestType=algo)
+[![Rating](https://badgen.org/img/atcoder/replica/rating/algorithm?style=flat&1)](https://atcoder.jp/users/replica?contestType=algo)
